@@ -2,13 +2,13 @@
 
 ## Demo
 
-- [Vercel](https://nxapirouter.vercel.app/)
+- [Vercel](https://nxapp-router.vercel.app/)
 
 ## Para descargar 
 
 ```sh
-git clone https://github.com/jamj2000/nxapirouter.git
-cd nxapirouter
+git clone https://github.com/jamj2000/nxapp-router.git
+cd nxapp-router
 ```
 
 ## Para iniciar en entorno de desarrollo
