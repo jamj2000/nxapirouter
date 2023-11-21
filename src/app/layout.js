@@ -11,8 +11,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="es">
       <body>
-        <Navbar></Navbar>    
-        {children}
+        <Navbar></Navbar>
+        <main className="borde relleno bg-lavanda">
+          {children}
+        </main>
       </body>
     </html>
   )
