@@ -25,6 +25,11 @@ main {
   min-height: 100%;
 }
 
+img {
+  aspect-ratio: 1.5;
+  height: 80vh;
+}
+
 .bg-lavanda {
   background-color: Lavender;
 }
